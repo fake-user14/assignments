@@ -44,7 +44,7 @@ public class firstJava {
         //6.Input currency in rupees and output in USD.
         System.out.println("enter amnt in rupees");
         double rs=sc.nextDouble();
-        double conver=rs/80;
+        double conver=rs/84;
         System.out.println("amount in USD ="+conver);
 
     }
