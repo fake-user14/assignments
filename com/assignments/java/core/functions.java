@@ -1,4 +1,4 @@
-package com.kunal.assignments.BasicJavaPrograms;
+package com.assignments.java.core;
 
 import java.util.Scanner;
 

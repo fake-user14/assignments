@@ -1,6 +1,4 @@
-
-
-import java.util.Scanner;
+package com.assignments.java.core;
 
 /*
 Given an integer array nums of length n, you want to create an array ans of length 2n where ans[i] == nums[i] and ans[i + n] == nums[i] for 0 <= i < n (0-indexed).
@@ -36,7 +34,7 @@ n == nums.length
 
 /*public class A {
     public static void main(String[] args) {
-        Solutions s = new Solutions();
+        com.assignments.java.core.Solutions s = new com.assignments.java.core.Solutions();
         int[] d = {1, 2, 3}; // Example array
         int[] result = s.getConcatenation(d);
         for (int num : result) {
